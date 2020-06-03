@@ -25,9 +25,9 @@ For server and client running on the same system
 > $ python server.py
 <pre>
 				SERVER WORKING 
-Client (127.0.0.1, 51638) connected  [ tesla ]
-Client (127.0.0.1, 51641) connected  [ albert ]
-Client (127.0.0.1, 51641) is offline  [ albert ]
+Client (127.0.0.1, 51638) connected  [ David ]
+Client (127.0.0.1, 51641) connected  [ anthony ]
+Client (127.0.0.1, 51641) is offline  [ anthony ]
 </pre>
 
 
